@@ -1,4 +1,4 @@
-In most parts of the world, especially in underdeveloped countries, _Acquired Immunodeficiency Syndrome (AIDS)_ 
+**In most parts of the world, especially in underdeveloped countries, _Acquired Immunodeficiency Syndrome (AIDS)_ 
 still remains a major cause of death, disability and unfavorable economic outcomes. This has necessitated 
 intensive research to develop effective therapeutic agents for the treatment of _Human Immunodeficiency Virus 
 (HIV)_ infection, which is responsible for AIDS.  Peptide cleavage by `HIV-1 protease` is an essential step in 
