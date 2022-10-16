@@ -7,7 +7,7 @@
 **In this work, we present a `Logistic Regression Model` for predicting the substrate specificity and cleavage site of HIV-1 protease. First, we built and compared the performance of selected machine learning models for the prediction of HIV-1 protease cleavage site utilizing a hybrid of octapeptide sequence information comprising 
 `bond composition`, `amino acid binary profile (AABP)`, and `physicochemical properties` as numerical descriptors serving as input variables for some selected machine learning algorithms. Our work differs from antecedent studies exploring the same subject in the combination of octapeptide descriptors and method used. Instead of using various subsets of the dataset for training and testing the models, we combined the dataset, applied a 3-way data split, and then used a "stratified" 10-fold cross-validation technique alongside the testing set to evaluate the models.**
 ***
-**This procedure showed that the `logistic regression model` and the `multi-layer perceptron classifier` achieved superior performance comparable to that of the state-of-the-art model, `linear support vector machine`. Our feature selection algorithm implemented via the `Decision tree model` showed that***: 
+**This procedure showed that the `logistic regression model` and the `multi-layer perceptron classifier` achieved superior performance comparable to that of the state-of-the-art model, `linear support vector machine`. Our feature selection algorithm implemented via the `Decision tree model` showed that**: 
 
 * `AABP → Amino Acid Binary Profile` **and two of the physicochemical properties, mamely**: 
 * `PCP_BS → Composition of basic residues`, **and** 
