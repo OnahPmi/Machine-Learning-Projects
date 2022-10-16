@@ -1,4 +1,4 @@
-## Implimented Algorithms for Generating Calculated Hybrid Descriptors for Machine/Deep Learning Applications on HIV-1 Protease Cleavage Site Prediction and the deployment of the Logistic Regression Model using Calculated Hybrid Descriptors for the same task
+## Implimented Algorithms for Generating Calculated Hybrid Descriptors for Machine/Deep Learning Applications on HIV-1 Protease Cleavage Site Prediction on octapeptide sequences and the deployment of the Logistic Regression Model using the Hybrid Descriptors for the same task
 
 ##### This work has been accepted at _BMC Bioinformatics_ for publication, and a link shall be available soon. Meanwhile, a preprint is available at [ResearchSquare (https://doi.org/10.21203/rs.3.rs-1688464/v1)
 ***
