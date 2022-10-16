@@ -3,7 +3,7 @@ still remains a major cause of death, disability and unfavorable economic outcom
 intensive research to develop effective therapeutic agents for the treatment of _Human Immunodeficiency Virus 
 (HIV)_ infection, which is responsible for AIDS.  Peptide cleavage by `HIV-1 protease` is an essential step in 
 the replication of HIV-1. Thus, correct and timely prediction of the cleavage site of HIV-1 protease can 
-significantly speed up and optimize the drug discovery process of novel HIV-1 protease inhibitors.
+significantly speed up and optimize the drug discovery process of novel HIV-1 protease inhibitors.**
 ***
 In this work, we present a `Logistic Regression Model` for predicting the substrate specificity and cleavage 
 site of HIV-1 protease. First, we built and compared the performance of selected machine learning models for 
