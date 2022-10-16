@@ -21,5 +21,6 @@ selection algorithm implemented via the `Decision tree model` showed that***:
 * `AABP → Amino Acid Binary Profile` and two of the physicochemical properties, mamely: 
 * `PCP_BS → Composition of basic residues`, and 
 * `PCP_HL → Composition of hydrophilic residues` 
+
 **were top features selected by during model training. This supports previous findings that water accessibility served 
 as a discriminative factor to predict cleavage sites [Warut et. al, 2022]( https://doi.org/10.1155/2022/8513719).**
