@@ -1,7 +1,7 @@
 ## Implimented Algorithms for Generating Calculated Hybrid Descriptors for Machine/Deep Learning Applications on HIV-1 Protease Cleavage Site Prediction and the deployment of the Logistic Regression Model using Calculated Hybrid Descriptors for the same task
 
 ##### This work has been accepted at _BMC Bioinformatics_ for publication, and a link shall be available soon. Meanwhile, a preprint is available at [ResearchSquare (https://doi.org/10.21203/rs.3.rs-1688464/v1)
-
+***
 **In most parts of the world, especially in underdeveloped countries, _Acquired Immunodeficiency Syndrome (AIDS)_ still remains a major cause of death, disability and unfavorable economic outcomes. This has necessitated intensive research to develop effective therapeutic agents for the treatment of _Human Immunodeficiency Virus (HIV)_ infection, which is responsible for AIDS.  Peptide cleavage by `HIV-1 protease` is an essential step in the replication of HIV-1. Thus, correct and timely prediction ofthe cleavage site of HIV-1 protease can significantly speed up and optimize the drug discovery process of novel HIV-1 protease inhibitors.**
 ***
 **In this work, we present a `Logistic Regression Model` for predicting the substrate specificity and cleavage site of HIV-1 protease. First, we built and compared the performance of selected machine learning models for the prediction of HIV-1 protease cleavage site utilizing a hybrid of octapeptide sequence information comprising 
